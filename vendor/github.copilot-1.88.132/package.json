@@ -434,7 +434,7 @@
 		"@adobe/helix-fetch": "github:bmuskalla/helix-fetch#4e33e47bf6e64b637d5d713558fde504bf71c947",
 		"@github/copilot-promptlib": "file:prompt",
 		"@roamhq/mac-ca": "^1.0.7",
-		"@sinclair/typebox": "^0.28.9",
+		"@sinclair/typebox": "^0.34.33",
 		"@vscode/debugprotocol": "^1.59.0",
 		"ajv": "8.11.0",
 		"ajv-errors": "^3.0.0",
